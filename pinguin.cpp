@@ -27,4 +27,6 @@ int main(){
 	cout << (PinguinEmperor.nama) << " memiliki ukuran tubuh yang " << (PinguinEmperor.ukuran) << " dengan berat " << (PinguinEmperor.beratdewasa) << " kg" <<endl;
 	cout << (PinguinMadagascar.nama) << " memiliki ukuran tubuh yang " << (PinguinMadagascar.ukuran) << " dengan berat " << (PinguinMadagascar.beratdewasa) << " kg" <<endl;
 	
+	PinguinRoyal.warna("Putih");
+	
 }
