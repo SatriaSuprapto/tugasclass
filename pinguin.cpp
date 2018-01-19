@@ -23,4 +23,8 @@ int main(){
 	PinguinMadagascar.ukuran = "SEDANG";
 	PinguinMadagascar.beratdewasa = 47.1;
 	
+	cout << (PinguinRoyal.nama) << " memiliki ukuran tubuh yang " << (PinguinRoyal.ukuran) << " dengan berat " << (PinguinRoyal.beratdewasa) << " kg" <<endl;
+	cout << (PinguinEmperor.nama) << " memiliki ukuran tubuh yang " << (PinguinEmperor.ukuran) << " dengan berat " << (PinguinEmperor.beratdewasa) << " kg" <<endl;
+	cout << (PinguinMadagascar.nama) << " memiliki ukuran tubuh yang " << (PinguinMadagascar.ukuran) << " dengan berat " << (PinguinMadagascar.beratdewasa) << " kg" <<endl;
+	
 }
