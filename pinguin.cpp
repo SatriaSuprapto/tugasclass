@@ -30,3 +30,7 @@ int main(){
 	PinguinRoyal.warna("Putih");
 	
 }
+
+void pinguin::warna(string warna){
+	cout  << endl << "Warna Bulu Pinguin Royal adalah " << warna << endl;
+}
